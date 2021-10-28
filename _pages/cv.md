@@ -1,128 +1,114 @@
 ---
-title : "Curriculum Vitæ"
-permalink: /cv/
-classes: cv
-toc: true
+title : "Pedro P. Palazzo"
+lang  : fr
+layout: single
+permalink: /fr/cv/
+namespace: cv
 ---
 
- 
-: <span class="newthought">Professor associado</span>
-: \\
-  Universidade de Brasília  
-  Faculdade de Arquitetura e Urbanismo  
-  Campus Darcy Ribeiro Gleba A  
-  <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>  
-  Brasília <span class="smallcaps">DF</span> 70.910--900
+##### Maître de conférences HDR #####
 
-## Formação académica ##
+|  
+| Université de Brasilia
+| Faculté d'Architecture e Urbanisme
+| Campus Darcy Ribeiro Gleba A
+| <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>
+| Brasilia <span class="smallcaps">DF</span> 70.910--900
+
+##### Formation #####
 
 2010
-: Doutor em Estética e Semiótica da Arquitetura e do Urbanismo
-: Universidade de Brasília
+: Doctorat en Esthétique et Sémiologie de l'Archiecture e Urbanisme
+: Université de Brasilia
 
 2006
-: Mestre em Teoria, História e Crítica da Arquitetura e do Urbanismo
-: Universidade de Brasília
+: Master en Théorie, Histoire et Critique d'Architecture e Urbanisme
+: Université de Brasilia
 
 2005
-: Arquiteto e Urbanista
-: Universidade de Brasília
+: Architecte diplômé habilitation maîtrise d'œuvre en nom propre
+: Université de Brasilia
 
 2003
-: Bacharel em Arquitetura
+: <span class="smallcaps">DEUG</span> Architecture
 : University of Maryland at College Park
 
-## Projetos de investigação ##
+## Projets de recherche ##
 
 2020--
-: *TechNetEmpire: Redes técnico-científicas na formação do
-  ambiente construído no Império Português (1647--1871)*
-: Líderes: Alice Faria e Renata Araujo,
+: *TechNetEmpire: Réseaux technologiques et scientifiques dans le cadre
+  bâti de l'empire colonial portugais (1647--1871)*
+: Coordonné par Alice Faria et Renata Araujo,
   <span class="smallcaps">NOVA--FCSH--CHAM</span>
-: Financiado pela <span class="smallcaps">FCT</span>, Fundação para a
-  Ciência e Tecnologia (Portugal).
+: Financé par la <span class="smallcaps">FCT</span>, Fondation pour la Science et la
+  Technologie (Portugal).
 
 2020--
-: *Estratégias adaptativas na construção tradicional*
-: Projeto de pesquisa financiado pelo Conselho Nacional para o
-  Desenvolvimento Científico e Tecnológico (CNPq), Brasil.
+: *Stratégies adaptatives dans la construction traditionnelle*
+: Financé par le Conseil National pour le Développement Scientifique et
+  Technologique (CNPq), Brésil.
 
 2019--2020
-: *Raízes portuguesas da arquitetura brasileira na Belle Époque*
-: Investigador visitante no Centro de Estudos Sociais da Universidade de
+: *Racines portugaises de l'architecture brésilienne de la Belle Époque*
+: Chercheur invité au Centre d'Études Sociales de l'Université de
   Coimbra.
 
 2018--
-: *Clássico, Tradicional, Eclético: nacionalismo e cosmopolitismo
-  no longo século <span class="smallcaps">XIX</span>*
-: Projeto de investigação financiado pela Fundação de Apoio à Pesquisa do
-  Distrito Federal <span class="smallcaps">(FAP--DF)</span>, Brasil.
+: *Classique, Traditionnel, Éclectique: nationalisme et cosmopolitisme
+  dans la ville industrielle*
+: Financé par la Fondation de Soutien à la Recherche du
+  District Fédéral <span class="smallcaps">(FAP--DF)</span>, Brésil.
 
 2015
-: Menção honrosa no prémio Nova Arquitetura de Brasília, concedido pelo
-  Instituto de Arquitetos do Brasil, ao *Inventário do
-  Setor Tradicional de Planaltina* produzido para o Instituto do
-  Patrimônio Histórico e Artístico Nacional
+: Mention au concours Nouvelle Architecture de Brasilia, promu par
+  l'Institut d'Architectes du Brésil, pour l'*Inventaire du
+  Secteur Traditionnel de Planaltina* produit pour l'Institut du
+  Patrimoine Historique et Artistique National
   <span class="smallcaps">(IPHAN)</span>.
 
 2014--2018
-: *Urbanização, arte e crítica na primeira República brasileira*
-: Projeto de investigação financiado pela Coordenação de Aperfeiçoamento do
-  Pessoal de Nível Superior <span class="smallcaps">(CAPES)</span>, Brasil.
+: *Urbanization, art et critique dans la première République brésilienne*
+: Financé par la Coordination de Perfectionnement du
+  Personnel de l'Enseignement Supérieur <span class="smallcaps">(CAPES)</span>, Brésil.
 
-## Vínculos profissionais e científicos ##
+## Affiliations professionnelles et scientifiques ##
 
- 
+##### Université de Brasilia, Faculté d'Architecture et Urbanisme #####
 
-: <span class="newthought">Universidade de Brasília, Faculdade de Arquitetura e Urbanismo</span>
+2016--
+~ Maître de conférences <span class="smallcaps">HDR</span> 
 
-2020--
-: Professor associado
-
-2016--2020
-: Professor adjunto
-:  
-
- 
-
-: <span class="newthought">Universidade Federal do Rio de Janeiro, Escola de Belas Artes</span>
+##### Université Fédérale de Rio de Janeiro, École des Beaux Arts #####
 
 2014--2016
-: Professor adjunto
-:  
+~ Maître de conférences
 
- 
-
-: <span class="newthought">Ábaco Arquitetura</span>
-
-2008--2010
-: Sócio-diretor
+##### Ábaco Architecture #####
 
 2010--
-: Sócio minoritário, consultor técnico
-:  
+~ Partenaire, consultant en patrimoine
 
- 
+2008--2010
+~ Partenaire et architecte
 
-: <span class="newthought">*Journal of Urbanism* (Taylor and Francis)
+##### *Journal of Urbanism* (Taylor and Francis) #####
 
 2008--
-: Membro do conselho editorial
-:  
+~ Membre du conseil éditorial
+
+##### Membre de comités scientifiques  #####
 
  
-
-: <span class="newthought">Membro de comissões científicas</span>
-: Icomos Brasil, Comitê Científico, seção de Documentação
-: *Journal of Traditional Building, Architecture, and Urbanism*
+~ Icomos Brésil, Comité Scientifique, section de Documentation
+~ *Journal of Traditional Building, Architecture, and Urbanism*
   <span class="smallcaps">INTBAU</span> España
-: *Paranoá: cadernos de arquitetura e urbanismo*
-  Universidade de Brasília
-: *Pós* Faculdade de Arquitetura e Urbanismo da Universidade de São
+~ *Paranoá: cadernos de arquitetura e urbanismo*
+  Université de Brasilia
+~ *Pós* Faculté d'Architecture et Urbanisme, Université de São
   Paulo
-: *Urbana* Universidade Estadual de Campinas
+~ *Urbana* Université de l'État à Campinas
 
-## Orientações relevantes ##
+## Directions de thèses et mémoires choisies ##
 
 2019--2022
 : {% reference oliveira:2022lugares %}
@@ -139,10 +125,16 @@ toc: true
 2017--2018
 : {% reference lima:2018narrativas %}
 
-## Publicações relevantes ##
+## Publications choisies ##
+
+À paraître
+: 'Le nationalisme romantique en Europe et la critique des styles
+  d'architecture au Brésil,' in *L'historiographie de l'architecture à
+  l'épreuve des transferts culturels*, éd. Marianna Cardoso et Hélène
+  Jannière.
 
 2021
-: {% reference palazzo:2021programa %}
+~ {% reference palazzo:2021programa %}
 
 2020
 : {% reference palazzo:2020literary32 %}
@@ -184,7 +176,7 @@ toc: true
 : {% reference palazzo:2012architecture5 %}
 
 2012
-: {% reference iphan:2012planaltina %}. Coordenador do projeto e historiador.
+: {% reference iphan:2012planaltina %}. Coordinateur du projet et historien.
 
 2010
 : {% reference ficher:2010modern %}
