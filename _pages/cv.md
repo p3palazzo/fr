@@ -2,7 +2,7 @@
 title : "Pedro P. Palazzo"
 lang  : fr
 layout: single
-permalink: /fr/cv/
+permalink: /cv/
 namespace: cv
 ---
 
