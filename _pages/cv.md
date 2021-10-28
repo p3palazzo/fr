@@ -6,20 +6,16 @@ permalink: /fr/cv/
 namespace: cv
 ---
 
-```{=latex}
-\columnsbegin
-```
-
-#### Maître de conférences HDR ####
+##### Maître de conférences HDR #####
 
 |  
 | Université de Brasilia
 | Faculté d'Architecture e Urbanisme
 | Campus Darcy Ribeiro Gleba A
-| [ICC]{.smallcaps} Norte [ASS--585/9]{.smallcaps}
-| Brasilia [DF]{.smallcaps} 70.910--900
+| <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>
+| Brasilia <span class="smallcaps">DF</span> 70.910--900
 
-#### Formation #### {.cv}
+##### Formation #####
 
 2010
 : Doctorat en Esthétique et Sémiologie de l'Archiecture e Urbanisme
@@ -34,21 +30,17 @@ namespace: cv
 : Université de Brasilia
 
 2003
-: [DEUG]{.smallcaps} Architecture
+: <span class="smallcaps">DEUG</span> Architecture
 : University of Maryland at College Park
 
-```{=latex}
-\columnsend
-```
-
-# Projets de recherche # {.cv}
+## Projets de recherche ##
 
 2020--
 : *TechNetEmpire: Réseaux technologiques et scientifiques dans le cadre
   bâti de l'empire colonial portugais (1647--1871)*
 : Coordonné par Alice Faria et Renata Araujo,
-  [NOVA--FCSH--CHAM]{.smallcaps}
-: Financé par la [FCT]{.smallcaps}, Fondation pour la Science et la
+  <span class="smallcaps">NOVA--FCSH--CHAM</span>
+: Financé par la <span class="smallcaps">FCT</span>, Fondation pour la Science et la
   Technologie (Portugal).
 
 2020--
@@ -65,33 +57,33 @@ namespace: cv
 : *Classique, Traditionnel, Éclectique: nationalisme et cosmopolitisme
   dans la ville industrielle*
 : Financé par la Fondation de Soutien à la Recherche du
-  District Fédéral [(FAP--DF)]{.smallcaps}, Brésil.
+  District Fédéral <span class="smallcaps">(FAP--DF)</span>, Brésil.
 
 2015
 : Mention au concours Nouvelle Architecture de Brasilia, promu par
   l'Institut d'Architectes du Brésil, pour l'*Inventaire du
   Secteur Traditionnel de Planaltina* produit pour l'Institut du
   Patrimoine Historique et Artistique National
-  [(IPHAN)]{.smallcaps}.
+  <span class="smallcaps">(IPHAN)</span>.
 
 2014--2018
 : *Urbanization, art et critique dans la première République brésilienne*
 : Financé par la Coordination de Perfectionnement du
-  Personnel de l'Enseignement Supérieur [(CAPES)]{.smallcaps}, Brésil.
+  Personnel de l'Enseignement Supérieur <span class="smallcaps">(CAPES)</span>, Brésil.
 
-# Affiliations professionnelles et scientifiques # {.cv}
+## Affiliations professionnelles et scientifiques ##
 
-#### Université de Brasilia, Faculté d'Architecture et Urbanisme ####
+##### Université de Brasilia, Faculté d'Architecture et Urbanisme #####
 
 2016--
-~ Maître de conférences [HDR]{.smallcaps} 
+~ Maître de conférences <span class="smallcaps">HDR</span> 
 
-#### Université Fédérale de Rio de Janeiro, École des Beaux Arts ####
+##### Université Fédérale de Rio de Janeiro, École des Beaux Arts #####
 
 2014--2016
 ~ Maître de conférences
 
-#### Ábaco Architecture ####
+##### Ábaco Architecture #####
 
 2010--
 ~ Partenaire, consultant en patrimoine
@@ -99,24 +91,24 @@ namespace: cv
 2008--2010
 ~ Partenaire et architecte
 
-#### *Journal of Urbanism* (Taylor and Francis) ####
+##### *Journal of Urbanism* (Taylor and Francis) #####
 
 2008--
 ~ Membre du conseil éditorial
 
-#### Membre de comités scientifiques  ####
+##### Membre de comités scientifiques  #####
 
  
 ~ Icomos Brésil, Comité Scientifique, section de Documentation
 ~ *Journal of Traditional Building, Architecture, and Urbanism*
-  [INTBAU]{.smallcaps} España
+  <span class="smallcaps">INTBAU</span> España
 ~ *Paranoá: cadernos de arquitetura e urbanismo*
   Université de Brasilia
 ~ *Pós* Faculté d'Architecture et Urbanisme, Université de São
   Paulo
 ~ *Urbana* Université de l'État à Campinas
 
-# Directions de thèses et mémoires choisies # {.cv}
+## Directions de thèses et mémoires choisies ##
 
 2019--2022
 : {% reference oliveira:2022lugares %}
@@ -133,7 +125,7 @@ namespace: cv
 2017--2018
 : {% reference lima:2018narrativas %}
 
-# Publications choisies # {.cv}
+## Publications choisies ##
 
 À paraître
 : 'Le nationalisme romantique en Europe et la critique des styles
