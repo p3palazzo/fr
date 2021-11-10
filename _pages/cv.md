@@ -150,7 +150,7 @@ des Beaux Arts</span>
 : {% reference palazzo:2021vernacular %}
 
 2021
-~ {% reference palazzo:2021programa %}
+: {% reference palazzo:2021programa %}
 
 2020
 : {% reference palazzo:2020literary32 %}
