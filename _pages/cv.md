@@ -1,21 +1,32 @@
 ---
-title : "Pedro P. Palazzo"
-lang  : fr
+title : "Curriculum vitæ"
 layout: single
 permalink: /cv/
-namespace: cv
+classes: cv
+toc: true
+header:
+  overlay_color: "#2b2b2b00"
+excerpt: |
+  Architecte et historien de l’art spécialisé dans la Méditerrannée
+  occidentale et le monde lusophone des <span
+  class="smallcaps">XVIII</span><sup>e</sup> et <span
+  class="smallcaps">XIX</span><sup>e</sup> siècles. Mes axes de
+  recherche sont l’interface entre la construction traditionnelle et
+  celle moderne, ainsi qu’entre l’architecture classique « savante » et
+  les typologies vernaculaires.
 ---
 
-##### Maître de conférences HDR #####
+ 
+: <span class="newthought">Maître de conférences HDR</span>
 
-|  
-| Université de Brasilia
-| Faculté d'Architecture e Urbanisme
-| Campus Darcy Ribeiro Gleba A
-| <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>
-| Brasilia <span class="smallcaps">DF</span> 70.910--900
+: Université de Brasilia  
+  Faculté d'Architecture e Urbanisme  
+  Campus Darcy Ribeiro Gleba A  
+  <span class="smallcaps">ICC</span> Norte <span class="smallcaps">ASS--585/9</span>  
+  Brasilia <span class="smallcaps">DF</span> 70.910--900
 
-##### Formation #####
+ 
+: <span class="newthought">Formation</span>
 
 2010
 : Doctorat en Esthétique et Sémiologie de l'Archiecture e Urbanisme
@@ -73,17 +84,19 @@ namespace: cv
 
 ## Affiliations professionnelles et scientifiques ##
 
-##### Université de Brasilia, Faculté d'Architecture et Urbanisme #####
+<span class="newthought">Université de Brasilia, Faculté d'Architecture
+et Urbanisme</span>
 
 2016--
 ~ Maître de conférences <span class="smallcaps">HDR</span> 
 
-##### Université Fédérale de Rio de Janeiro, École des Beaux Arts #####
+<span class="newthought">Université Fédérale de Rio de Janeiro, École
+des Beaux Arts</span>
 
 2014--2016
 ~ Maître de conférences
 
-##### Ábaco Architecture #####
+<span class="newthought">Ábaco Architecture</span>
 
 2010--
 ~ Partenaire, consultant en patrimoine
@@ -91,12 +104,12 @@ namespace: cv
 2008--2010
 ~ Partenaire et architecte
 
-##### *Journal of Urbanism* (Taylor and Francis) #####
+<span class="newthought">*Journal of Urbanism* (Taylor and Francis)</span>
 
 2008--
 ~ Membre du conseil éditorial
 
-##### Membre de comités scientifiques  #####
+<span class="newthought">Membre de comités scientifiques</span>
 
  
 ~ Icomos Brésil, Comité Scientifique, section de Documentation
@@ -132,6 +145,9 @@ namespace: cv
   d'architecture au Brésil,' in *L'historiographie de l'architecture à
   l'épreuve des transferts culturels*, éd. Marianna Cardoso et Hélène
   Jannière.
+
+2021
+: {% reference palazzo:2021vernacular %}
 
 2021
 ~ {% reference palazzo:2021programa %}
