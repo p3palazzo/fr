@@ -147,6 +147,12 @@ des Beaux Arts</span>
   Jannière.
 
 2021
+: {% reference palazzo:2021modernidade %}
+
+2021
+: {% reference mennucci:2021catetinho15 %}
+
+2021
 : {% reference palazzo:2021vernacular %}
 
 2021
