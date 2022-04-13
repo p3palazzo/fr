@@ -6,7 +6,7 @@ sidebar:
   - text: |
       <i class="fas fa-globe"></i> ·
       [en](https://palazzo.arq.br/en/) ·
-      [pt](https://palazzo.arq.br/pt/)
+      [pt](https://palazzo.pt/)
 ---
 
 ![](https://hcommons.org/app/uploads/sites/1001018/2021/05/pp-0535.jpg){: .align-right}

@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Pedro P. Palazzo"
   avatar           : "https://avatars.githubusercontent.com/u/8295666?v=4"
-  bio              : "Associate professor"
-  location         : "FAU–UnB"
-  email            : "palazzo@unb.br"
+  bio              : "Historien de l'architecture"
+  location         : "Coimbra"
+  email            : "pedro@palazzo.pt"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
