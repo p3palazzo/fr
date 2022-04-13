@@ -9,8 +9,8 @@ description: >-
   Documentação, Modelagem e Conservação do Patrimônio. Este site é um
   ajuda-memória para mim mesmo, registrando minha trajetória profissional
   de um jeito mais acessível do que o curriculum Lattes!
-baseurl                  : ""
-url                      : "https://fr.palazzo.pt"
+baseurl                  : "/fr"
+url                      : "https://palazzo.pt"
 locale                   : "fr-FR"
 repository               : "p3palazzo/fr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
