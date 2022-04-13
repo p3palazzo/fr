@@ -10,7 +10,7 @@ description: >-
   ajuda-memória para mim mesmo, registrando minha trajetória profissional
   de um jeito mais acessível do que o curriculum Lattes!
 baseurl                  : "/fr"
-url                      : "https://palazzo.pt"
+url                      : "https://palazzo.arq.br"
 locale                   : "fr-FR"
 repository               : "p3palazzo/fr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
