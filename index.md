@@ -70,6 +70,8 @@ profile:
     [Ábaco Arquitetura](https://www.abaco-arquitetura.com.br).
 ---
 
+<i class="fas fa-language"></i> [en](/en/) · [pt](/)
+
 {% include feature_row id="portfolio" %}
 
 {% include feature_row id="profile" type="right" %}
