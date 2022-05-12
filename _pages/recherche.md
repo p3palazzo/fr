@@ -15,5 +15,5 @@ header:
   overlay_filter: 0.7
 sidebar:
 - text: >
-    <i class="fas fa-language"> [pt](/pesquisa/)
+    <i class="fas fa-language"> [pt](/historia/)
 ---
