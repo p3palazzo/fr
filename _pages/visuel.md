@@ -7,4 +7,7 @@ excerpt: >
   Restitutions numériques et analogues de sites et
   visualisations de projets. Relevés photogrammétriques et
   illustration interprétative.
+sidebar:
+- text: >
+    <i class="fas fa-language"> [pt](/visualiza/)
 ---

@@ -9,8 +9,12 @@ excerpt: >
 header:
   overlay_image : https://cdn.palazzo.arq.br/portfolio/casa-fd-5329-mirror.jpg
   actions:
-  - label       : "Contact"
+  - label       : "Courriel"
     url         : mailto:pedro@palazzo.pt
+  - label       : "en"
+    url         : /en/
+  - label       : "pt"
+    url         : "/"
 
 portfolio:
 - image_path: https://cdn.palazzo.arq.br/portfolio/pt-lis-bairro_alto-teaser.jpg
@@ -69,8 +73,6 @@ profile:
     l'architecture traditionnelle avec
     [Ábaco Arquitetura](https://www.abaco-arquitetura.com.br).
 ---
-
-<i class="fas fa-language"></i> [en](/en/) · [pt](/)
 
 {% include feature_row id="portfolio" %}
 

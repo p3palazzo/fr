@@ -13,4 +13,7 @@ excerpt: >
 header:
   overlay_image: https://cdn.palazzo.arq.br/portfolio/pt-lis-bairro_alto-overlay.jpg
   overlay_filter: 0.7
+sidebar:
+- text: >
+    <i class="fas fa-language"> [pt](/pesquisa/)
 ---
