@@ -12,9 +12,9 @@ header:
   - label       : "Courriel"
     url         : mailto:pedro@palazzo.pt
   - label       : "en"
-    url         : /en/
+    url         : https://palazzo.pt/en/
   - label       : "pt"
-    url         : "/"
+    url         : https://palazzo.pt/index.html
 
 portfolio:
 - image_path: https://cdn.palazzo.arq.br/portfolio/pt-lis-bairro_alto-teaser.jpg
