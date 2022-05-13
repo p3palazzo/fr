@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "https://cdn.palazzo.arq.br/portfolio/pp-0535xs.jpg"
+  avatar           : https://avatars.githubusercontent.com/u/8295666?v=4
   bio              : "Architecte et historien de l'architecture"
   location         : "Coimbra"
   email            : "pedro@palazzo.pt"
