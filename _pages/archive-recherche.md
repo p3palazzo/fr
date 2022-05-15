@@ -15,5 +15,8 @@ header:
   overlay_filter: 0.7
 sidebar:
 - text: >
-    <i class="fas fa-language"> [pt](/historia/)
+    <i class="fas fa-language fa-lg"></i> 
+    [en](https://palazzo.pt/en/research/)
+    ·
+    [pt](https://palazzo.pt/pt/historia/)
 ---

@@ -9,5 +9,8 @@ excerpt: >
   illustration interprétative.
 sidebar:
 - text: >
-    <i class="fas fa-language"> [pt](/visualiza/)
+    <i class="fas fa-language fa-lg"></i> 
+    [en](https://palazzo.pt/en/visualization/)
+    ·
+    [pt](https://palazzo.pt/pt/visualiza/)
 ---

@@ -2,7 +2,6 @@
 title: "Architecture traditionnelle et historiographie du bâti"
 entries_layout  : grid
 layout          : splash
-page_js         : [ /assets/js/redirect.js ]
 excerpt: >
   Recherche en histoire de l'architecture, relevés et projets de
   sites culturels, représentation numérique du bâti.
@@ -11,10 +10,10 @@ header:
   actions:
   - label       : "Courriel"
     url         : mailto:pedro@palazzo.pt
-  - label       : "en"
+  - label       : '<i class="fas fa-language fa-lg"></i> en'
     url         : https://palazzo.pt/en/
-  - label       : "pt"
-    url         : https://palazzo.pt/index.html
+  - label       : '<i class="fas fa-language fa-lg"></i> pt'
+    url         : https://palazzo.pt/pt/
 
 portfolio:
 - image_path: https://cdn.palazzo.arq.br/portfolio/pt-lis-bairro_alto-teaser.jpg
