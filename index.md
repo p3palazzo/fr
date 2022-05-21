@@ -75,5 +75,5 @@ profile:
 
 {% include feature_row id="portfolio" %}
 
-{% include feature_row id="profile" type="right" %}
+{% include feature_row id="profile" type="center" %}
 
