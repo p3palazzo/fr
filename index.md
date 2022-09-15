@@ -64,9 +64,9 @@ profile:
 
     Je suis Maître de conférences <span class="smallcaps">HDR</span> à la [Faculté
     d'Architecture et d'Urbanisme de l'Université de
-    Brasilia](http://www.fau.unb.br) et chercheur invité auprès du projet de
-    recherche [TechNetEmpire](https://technetempire.fcsh.unl.pt/) de
-    l'Université <span class="smallcaps">NOVA</span> de Lisbonne. Je suis également membre du
+    Brasilia](http://www.fau.unb.br) et chercheur invité auprès du
+    [Centre d'Études Sociales](https://ces.uc.pt) de
+    l'Université de Coïmbre. Je suis également membre du
     Comité de documentation d'Icomos Brésil et je travaille
     occasionnellement sur la conservation du patrimoine et sur
     l'architecture traditionnelle avec
